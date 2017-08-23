@@ -1,0 +1,5 @@
+C:\Users\USER\Documents\Visual Studio 2013\Projects\HS_sim\HS_sim\bin\Release\HS_sim.exe.config
+C:\Users\USER\Documents\Visual Studio 2013\Projects\HS_sim\HS_sim\bin\Release\HS_sim.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\HS_sim\HS_sim\bin\Release\HS_sim.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\HS_sim\HS_sim\obj\Release\HS_sim.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\HS_sim\HS_sim\obj\Release\HS_sim.pdb
